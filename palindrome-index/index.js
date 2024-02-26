@@ -22,8 +22,7 @@ function palindromeIndex(s) {
      *  - compare with reverse , if equal then it means to return the start_pointer vaue
      *  - else retrun the end_pointer value
      * 
-     * 
-     * Note: it was not working for really large value
+     *
      */
 
 
