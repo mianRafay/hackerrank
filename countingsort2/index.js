@@ -26,8 +26,8 @@ function countingSort(arr) {
      * 
      * Thought Process:
      * - declare array and fill with 0
-    * - increase count at every index
-    * - loop forEach and declare array fill array with index 
+     * - increase count at every index
+     * - loop forEach and declare array fill array with index 
      */
     let tempArr = Array(100).fill(0)
     let returnArr = []
