@@ -9,7 +9,7 @@
  *  - check the difference and store the minumum difference
  *
  */
-
+ 
 // function maxMin(k, arr) {
 //   // Write your code here
 //   arr.sort((a, b) => a - b);
