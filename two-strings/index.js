@@ -3,7 +3,7 @@
     /** Thought Process
      *  - split one of the string and make array
      *  - compare each element for S2 string  
-     *  - if found then return true else in the end return false
+     *  - if found then return true else in the end return false 
      */
 
 function twoStrings(s1, s2) {
